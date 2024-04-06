@@ -1,5 +1,6 @@
 import os
-import sys
+import /Внутреннее хранилище/ Pictures/Telegram/
+IMG_20240406_154745_995.jpg
 import time
 
 # I know the code is terrible but it works.
